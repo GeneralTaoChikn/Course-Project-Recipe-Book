@@ -1,2 +1,2 @@
 # Course-Project-Recipe-Book
-Udemy Angular Course Project
+Udemy Angular Course Project (On HOLD) Angualr is HARD!
